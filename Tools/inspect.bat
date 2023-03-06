@@ -1,0 +1,1 @@
+"JetBrains.ReSharper.CommandLineTools.2022.3.2\inspectcode.exe" ..\InspectionUnity.sln --no-build --output=inspectcode.txt
